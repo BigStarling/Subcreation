@@ -4,9 +4,9 @@ Esfand 26, 1401
 
 
 
-vless://1e9de0af-e078-4fae-a447-7d48713a91b9@www.speedtest.net:2083?encryption=none&security=tls&sni=drive.tasnimmnews4.cf&alpn=http%2F1.1&type=ws&host=drive.tasnimmnews4.cf&path=%2Fh5v8a264x837#cdn-vless-ws-tls-IE1
-vless://1e9de0af-e078-4fae-a447-7d48713a91b9@app.hubspot.com:2083?encryption=none&security=tls&sni=drive.tasnimmnews4.cf&alpn=http%2F1.1&type=ws&host=drive.tasnimmnews4.cf&path=%2Fh5v8a264x837#cdn-vless-ws-tls-IE1
-vless://1e9de0af-e078-4fae-a447-7d48713a91b9@hunter.io:2083?encryption=none&security=tls&sni=drive.tasnimmnews4.cf&alpn=http%2F1.1&type=ws&host=drive.tasnimmnews4.cf&path=%2Fh5v8a264x837#cdn-vless-ws-tls-IE1
-vless://1e9de0af-e078-4fae-a447-7d48713a91b9@104.254.140.63:2083?encryption=none&security=tls&sni=drive.tasnimmnews4.cf&alpn=http%2F1.1&type=ws&host=drive.tasnimmnews4.cf&path=%2Fh5v8a264x837#cdn-vless-ws-tls-IE1
-vless://1e9de0af-e078-4fae-a447-7d48713a91b9@104.17.177.94:2083?encryption=none&security=tls&sni=drive.tasnimmnews4.cf&alpn=http%2F1.1&type=ws&host=drive.tasnimmnews4.cf&path=%2Fh5v8a264x837#cdn-vless-ws-tls-IE1
-vless://1e9de0af-e078-4fae-a447-7d48713a91b9@discord.com:2083?encryption=none&security=tls&sni=drive.tasnimmnews4.cf&alpn=http%2F1.1&type=ws&host=drive.tasnimmnews4.cf&path=%2Fh5v8a264x837#cdn-vless-ws-tls-IE1
+vless://32a8f6ff-ec3c-47f7-b7f9-e6d31a2d1b2b@104.17.177.94:443?encryption=none&security=tls&sni=starling.tasnimmnews1.cf&alpn=http%2F1.1&type=ws&host=starling.tasnimmnews1.cf&path=%2F23k78pz29kzq#cdn-vless-ws-tls-IE1-m2eidm43d5
+vless://32a8f6ff-ec3c-47f7-b7f9-e6d31a2d1b2b@hunter.io:443?encryption=none&security=tls&sni=starling.tasnimmnews1.cf&alpn=http%2F1.1&type=ws&host=starling.tasnimmnews1.cf&path=%2F23k78pz29kzq#cdn-vless-ws-tls-IE1-m2eidm43d5
+vless://32a8f6ff-ec3c-47f7-b7f9-e6d31a2d1b2b@discord.com:443?encryption=none&security=tls&sni=starling.tasnimmnews1.cf&alpn=http%2F1.1&type=ws&host=starling.tasnimmnews1.cf&path=%2F23k78pz29kzq#cdn-vless-ws-tls-IE1-m2eidm43d5
+vless://32a8f6ff-ec3c-47f7-b7f9-e6d31a2d1b2b@www.speedtest.net:443?encryption=none&security=tls&sni=starling.tasnimmnews1.cf&alpn=http%2F1.1&type=ws&host=starling.tasnimmnews1.cf&path=%2F23k78pz29kzq#cdn-vless-ws-tls-IE1-m2eidm43d5
+vless://32a8f6ff-ec3c-47f7-b7f9-e6d31a2d1b2b@app.hubspot.com:443?encryption=none&security=tls&sni=starling.tasnimmnews1.cf&alpn=http%2F1.1&type=ws&host=starling.tasnimmnews1.cf&path=%2F23k78pz29kzq#cdn-vless-ws-tls-IE1-m2eidm43d5
+vless://32a8f6ff-ec3c-47f7-b7f9-e6d31a2d1b2b@104.254.140.63:443?encryption=none&security=tls&sni=starling.tasnimmnews1.cf&alpn=http%2F1.1&type=ws&host=starling.tasnimmnews1.cf&path=%2F23k78pz29kzq#cdn-vless-ws-tls-IE1-m2eidm43d5
