@@ -3,9 +3,9 @@ Farvardin 2 1402
 22 March 2023
 
 
-vless://1336f6b3-94a5-414a-f4f9-5ee9ebc07713@www.speedtest.net:2083?encryption=none&security=tls&sni=amoozesh.starlingshell11.tk&alpn=http%2F1.1&type=ws&host=amoozesh.starlingshell11.tk&path=%2F2y47gr5y83fdj#cdn-vless-ws-tls-IE1
-vless://1336f6b3-94a5-414a-f4f9-5ee9ebc07713@104.254.140.63:2083?encryption=none&security=tls&sni=amoozesh.starlingshell11.tk&alpn=http%2F1.1&type=ws&host=amoozesh.starlingshell11.tk&path=%2F2y47gr5y83fdj#cdn-vless-ws-tls-IE1
-vless://1336f6b3-94a5-414a-f4f9-5ee9ebc07713@discord.com:2083?encryption=none&security=tls&sni=amoozesh.starlingshell11.tk&alpn=http%2F1.1&type=ws&host=amoozesh.starlingshell11.tk&path=%2F2y47gr5y83fdj#cdn-vless-ws-tls-IE1
-vless://1336f6b3-94a5-414a-f4f9-5ee9ebc07713@104.17.177.94:2083?encryption=none&security=tls&sni=amoozesh.starlingshell11.tk&alpn=http%2F1.1&type=ws&host=amoozesh.starlingshell11.tk&path=%2F2y47gr5y83fdj#cdn-vless-ws-tls-IE1
-vless://1336f6b3-94a5-414a-f4f9-5ee9ebc07713@app.hubspot.com:2083?encryption=none&security=tls&sni=amoozesh.starlingshell11.tk&alpn=http%2F1.1&type=ws&host=amoozesh.starlingshell11.tk&path=%2F2y47gr5y83fdj#cdn-vless-ws-tls-IE1
-vless://1336f6b3-94a5-414a-f4f9-5ee9ebc07713@hunter.io:2083?encryption=none&security=tls&sni=amoozesh.starlingshell11.tk&alpn=http%2F1.1&type=ws&host=amoozesh.starlingshell11.tk&path=%2F2y47gr5y83fdj#cdn-vless-ws-tls-IE1
+vless://14ed26b5-129c-46d9-fec9-913ee737cc0c@www.speedtest.net:2083?encryption=none&security=tls&sni=amoozesh.heavenshell5.tk&alpn=http%2F1.1&type=ws&host=amoozesh.heavenshell5.tk&path=%2Fn4578bwwtvb2#cdn-vless-ws-tls-IE1-jjrnihg
+vless://14ed26b5-129c-46d9-fec9-913ee737cc0c@104.254.140.63:2083?encryption=none&security=tls&sni=amoozesh.heavenshell5.tk&alpn=http%2F1.1&type=ws&host=amoozesh.heavenshell5.tk&path=%2Fn4578bwwtvb2#cdn-vless-ws-tls-IE1-jjrnihg
+vless://14ed26b5-129c-46d9-fec9-913ee737cc0c@discord.com:2083?encryption=none&security=tls&sni=amoozesh.heavenshell5.tk&alpn=http%2F1.1&type=ws&host=amoozesh.heavenshell5.tk&path=%2Fn4578bwwtvb2#cdn-vless-ws-tls-IE1-jjrnihg
+vless://14ed26b5-129c-46d9-fec9-913ee737cc0c@104.17.177.94:2083?encryption=none&security=tls&sni=amoozesh.heavenshell5.tk&alpn=http%2F1.1&type=ws&host=amoozesh.heavenshell5.tk&path=%2Fn4578bwwtvb2#cdn-vless-ws-tls-IE1-jjrnihg
+vless://14ed26b5-129c-46d9-fec9-913ee737cc0c@app.hubspot.com:2083?encryption=none&security=tls&sni=amoozesh.heavenshell5.tk&alpn=http%2F1.1&type=ws&host=amoozesh.heavenshell5.tk&path=%2Fn4578bwwtvb2#cdn-vless-ws-tls-IE1-jjrnihg
+vless://14ed26b5-129c-46d9-fec9-913ee737cc0c@hunter.io:2083?encryption=none&security=tls&sni=amoozesh.heavenshell5.tk&alpn=http%2F1.1&type=ws&host=amoozesh.heavenshell5.tk&path=%2Fn4578bwwtvb2#cdn-vless-ws-tls-IE1-jjrnihg
