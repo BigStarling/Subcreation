@@ -1,9 +1,6 @@
-Thursday
-Farvardin 3 1402
-23 March 2023
+Firday
+Farvardin 4 1402
+24 March 2023
 
-vless://c7908b5f-82a4-44f8-a661-784a0b47beed@pro.seyedwyd.click:443?encryption=none&security=tls&sni=pro.seyedwyd.click&alpn=h2&type=grpc&serviceName=srX2Bi88hKq8e6vGyyD0kk&mode=multi#tls_h2_grpc_direct_vless_pro.seyedwyd.click
-trojan://c7908b5f-82a4-44f8-a661-784a0b47beed@pro.seyedwyd.click:443?security=tls&sni=pro.seyedwyd.click&alpn=h2&type=grpc&serviceName=ima3wGF7OsZG7w8e6vGyyD0kk&mode=multi#tls_h2_grpc_direct_trojan_pro.seyedwyd.click
-vless://c7908b5f-82a4-44f8-a661-784a0b47beed@pro.seyedwyd.click:443?encryption=none&security=tls&sni=pro.seyedwyd.click&alpn=http%2F1.1&type=grpc&serviceName=srX2Bi88hKq8e6vGyyD0kk&mode=multi#tls_grpc_direct_vless_pro.seyedwyd.click
-trojan://c7908b5f-82a4-44f8-a661-784a0b47beed@pro.seyedwyd.click:443?security=tls&sni=pro.seyedwyd.click&alpn=http%2F1.1&type=grpc&serviceName=ima3wGF7OsZG7w8e6vGyyD0kk&mode=multi#tls_grpc_direct_trojan_pro.seyedwyd.click
 
+vless://af56b652-a49a-4509-d391-7a8adf5373b3@pro.seyedwyd.click:443?encryption=none&security=none&type=ws&path=%2Ff3e8s0zivs4ln8v#cdn-vless-ws-new-IE1-600ssr
