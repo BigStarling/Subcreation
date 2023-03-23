@@ -2,11 +2,8 @@ Thursday
 Farvardin 3 1402
 23 March 2023
 
-
-vless://7e0cdeab-becf-45af-ffd3-bb220e863b91@www.speedtest.net:2083?encryption=none&security=tls&type=ws&host=rtc.starlingshell11.tk&path=%2F#cdn-vless-ws-tls-IE1-fl4a2mxm9
-vless://7e0cdeab-becf-45af-ffd3-bb220e863b91@104.254.140.63:2083?encryption=none&security=tls&type=ws&host=rtc.starlingshell11.tk&path=%2F#cdn-vless-ws-tls-IE1-fl4a2mxm9
-vless://7e0cdeab-becf-45af-ffd3-bb220e863b91@discord.com:2083?encryption=none&security=tls&type=ws&host=rtc.starlingshell11.tk&path=%2F#cdn-vless-ws-tls-IE1-fl4a2mxm9
-vless://7e0cdeab-becf-45af-ffd3-bb220e863b91@104.17.177.94:2083?encryption=none&security=tls&type=ws&host=rtc.starlingshell11.tk&path=%2F#cdn-vless-ws-tls-IE1-fl4a2mxm9
-vless://7e0cdeab-becf-45af-ffd3-bb220e863b91@app.hubspot.com:2083?encryption=none&security=tls&type=ws&host=rtc.starlingshell11.tk&path=%2F#cdn-vless-ws-tls-IE1-fl4a2mxm9
-vless://7e0cdeab-becf-45af-ffd3-bb220e863b91@hunter.io:2083?encryption=none&security=tls&type=ws&host=rtc.starlingshell11.tk&path=%2F#cdn-vless-ws-tls-IE1-fl4a2mxm9
+vless://c7908b5f-82a4-44f8-a661-784a0b47beed@pro.seyedwyd.click:443?encryption=none&security=tls&sni=pro.seyedwyd.click&alpn=h2&type=grpc&serviceName=srX2Bi88hKq8e6vGyyD0kk&mode=multi#tls_h2_grpc_direct_vless_pro.seyedwyd.click
+trojan://c7908b5f-82a4-44f8-a661-784a0b47beed@pro.seyedwyd.click:443?security=tls&sni=pro.seyedwyd.click&alpn=h2&type=grpc&serviceName=ima3wGF7OsZG7w8e6vGyyD0kk&mode=multi#tls_h2_grpc_direct_trojan_pro.seyedwyd.click
+vless://c7908b5f-82a4-44f8-a661-784a0b47beed@pro.seyedwyd.click:443?encryption=none&security=tls&sni=pro.seyedwyd.click&alpn=http%2F1.1&type=grpc&serviceName=srX2Bi88hKq8e6vGyyD0kk&mode=multi#tls_grpc_direct_vless_pro.seyedwyd.click
+trojan://c7908b5f-82a4-44f8-a661-784a0b47beed@pro.seyedwyd.click:443?security=tls&sni=pro.seyedwyd.click&alpn=http%2F1.1&type=grpc&serviceName=ima3wGF7OsZG7w8e6vGyyD0kk&mode=multi#tls_grpc_direct_trojan_pro.seyedwyd.click
 
