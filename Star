@@ -4,7 +4,8 @@ Farvardin 5 1402
 
 vless://d3b7463d-bf59-4643-a2d3-b7b2568789ec@www.speedtest.net:443?encryption=none&security=tls&sni=www.seyedwyd.click&alpn=http%2F1.1&type=ws&host=www.seyedwyd.click&path=%2Fsf2ujfj2gj34#cdn-vless-ws-tls-IE1
 vless://d3b7463d-bf59-4643-a2d3-b7b2568789ec@104.17.177.94:443?encryption=none&security=tls&sni=www.seyedwyd.click&alpn=http%2F1.1&type=ws&host=www.seyedwyd.click&path=%2Fsf2ujfj2gj34#cdn-vless-ws-tls-IE1
-vless://d3b7463d-bf59-4643-a2d3-b7b2568789ec@discord.com:443?encryption=none&security=tls&sni=www.seyedwyd.click&alpn=http%2F1.1&type=ws&host=www.seyedwyd.click&path=%2Fsf2ujfj2gj34#cdn-vless-ws-tls-IE1
 vless://d3b7463d-bf59-4643-a2d3-b7b2568789ec@app.hubspot.com:443?encryption=none&security=tls&sni=www.seyedwyd.click&alpn=http%2F1.1&type=ws&host=www.seyedwyd.click&path=%2Fsf2ujfj2gj34#cdn-vless-ws-tls-IE1
-vless://d3b7463d-bf59-4643-a2d3-b7b2568789ec@173.245.58.96:443?encryption=none&security=tls&sni=www.seyedwyd.click&alpn=http%2F1.1&type=ws&host=www.seyedwyd.click&path=%2F
+vless://d3b7463d-bf59-4643-a2d3-b7b2568789ec@discord.com:443?encryption=none&security=tls&sni=www.seyedwyd.click&alpn=http%2F1.1&type=ws&host=www.seyedwyd.click&path=%2Fsf2ujfj2gj34#cdn-vless-ws-tls-IE1
+vless://d3b7463d-bf59-4643-a2d3-b7b2568789ec@tgju.org:443?encryption=none&security=tls&sni=www.seyedwyd.click&alpn=http%2F1.1&type=ws&host=www.seyedwyd.click&path=%2Fsf2ujfj2gj34#cdn-vless-ws-tls-IE1
+
 
