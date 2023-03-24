@@ -3,8 +3,10 @@ Farvardin 4 1402
 24 March 2023
 
 
-vless://3c370f0a-747a-4617-8955-37200f0dec71@star.seyedwyd.click:443?encryption=none&security=tls&sni=star.seyedwyd.click&alpn=h2&type=grpc&serviceName=pzzigrpc&mode=gun#default_VLESS_gRPC
-trojan://3c370f0a-747a-4617-8955-37200f0dec71@star.seyedwyd.click:443?security=tls&sni=star.seyedwyd.click&alpn=h2&type=grpc&serviceName=pzzitrojangrpc&mode=gun#default_Trojan_gRPC
-vless://3c370f0a-747a-4617-8955-37200f0dec71@star.seyedwyd.click:443?encryption=none&security=tls&sni=star.seyedwyd.click&alpn=h2&type=ws&host=star.seyedwyd.click&path=%2Fpzziws#default_VLESS_WS
-vless://3c370f0a-747a-4617-8955-37200f0dec71@star.seyedwyd.click:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=star.seyedwyd.click&type=tcp&headerType=none&host=star.seyedwyd.click#default_VLESS_TCP%2FTLS_Vision
-trojan://3c370f0a-747a-4617-8955-37200f0dec71@star.seyedwyd.click:443?security=tls&sni=star.seyedwyd.click&alpn=http%2F1.1&type=tcp&headerType=none#star.seyedwyd.click_Trojan
+trojan://cqSmvHLUsdBPFg158z8NpXqH8zTNZjK2VeP19IE87cs4zB6S@www.speedtest.net:443?flow=xtls-rprx-vision&security=tls&alpn=http%2F1.1&type=ws&host=video.seyedwyd.click&path=%2Ftrojan-panel-websocket-path#cdn-vless-ws-tls-IE1
+trojan://cqSmvHLUsdBPFg158z8NpXqH8zTNZjK2VeP19IE87cs4zB6S@www.tgju.org:443?flow=xtls-rprx-vision&security=tls&alpn=http%2F1.1&type=ws&host=video.seyedwyd.click&path=%2Ftrojan-panel-websocket-path#cdn-vless-ws-tls-IE1
+trojan://cqSmvHLUsdBPFg158z8NpXqH8zTNZjK2VeP19IE87cs4zB6S@104.17.177.94:443?flow=xtls-rprx-vision&security=tls&alpn=http%2F1.1&type=ws&host=video.seyedwyd.click&path=%2Ftrojan-panel-websocket-path#cdn-vless-ws-tls-IE1
+trojan://cqSmvHLUsdBPFg158z8NpXqH8zTNZjK2VeP19IE87cs4zB6S@discord.com:443?flow=xtls-rprx-vision&security=tls&alpn=http%2F1.1&type=ws&host=video.seyedwyd.click&path=%2Ftrojan-panel-websocket-path#cdn-vless-ws-tls-IE1
+trojan://cqSmvHLUsdBPFg158z8NpXqH8zTNZjK2VeP19IE87cs4zB6S@app.hubspot.com:443?flow=xtls-rprx-vision&security=tls&alpn=http%2F1.1&type=ws&host=video.seyedwyd.click&path=%2Ftrojan-panel-websocket-path#cdn-vless-ws-tls-IE1
+trojan://cqSmvHLUsdBPFg158z8NpXqH8zTNZjK2VeP19IE87cs4zB6S@104.26.0.36:443?flow=xtls-rprx-vision&security=tls&alpn=http%2F1.1&type=ws&host=video.seyedwyd.click&path=%2Ftrojan-panel-websocket-path#cdn-vless-ws-tls-IE1
+
