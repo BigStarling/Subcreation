@@ -1,6 +1,11 @@
-Saturday
-Farvardin 5 1402
-25 March 2023
+Sunday
+Farvardin 6 1402
+26 March 2023
 
 
-vless://37867aa6-b248-5d22-97fa-4d85373f1fa5@works.starlingshell22.tk:443?security=tls&encryption=none&headerType=none&type=tcp#Vless-tcp-tls-FB-IE1
+trojan://pwTJFcVVCK-G37lQvqoR5g7ipPRWZhmahXRpuYWOPvMSk5mc@www.speedtest.net:443?security=tls&sni=works.starlingshell22.tk&alpn=http%2F1.1&type=ws&host=works.starlingshell22.tk&path=%2Ftrojan-panel-websocket-path#cdn-tro-ws-tls-IE1
+trojan://pwTJFcVVCK-G37lQvqoR5g7ipPRWZhmahXRpuYWOPvMSk5mc@104.17.177.94:443?security=tls&sni=works.starlingshell22.tk&alpn=http%2F1.1&type=ws&host=works.starlingshell22.tk&path=%2Ftrojan-panel-websocket-path#cdn-tro-ws-tls-IE1
+trojan://pwTJFcVVCK-G37lQvqoR5g7ipPRWZhmahXRpuYWOPvMSk5mc@app.hubspot.com:443?security=tls&sni=works.starlingshell22.tk&alpn=http%2F1.1&type=ws&host=works.starlingshell22.tk&path=%2Ftrojan-panel-websocket-path#cdn-tro-ws-tls-IE1
+trojan://pwTJFcVVCK-G37lQvqoR5g7ipPRWZhmahXRpuYWOPvMSk5mc@discord.com:443?security=tls&sni=works.starlingshell22.tk&alpn=http%2F1.1&type=ws&host=works.starlingshell22.tk&path=%2Ftrojan-panel-websocket-path#cdn-tro-ws-tls-IE1
+trojan://pwTJFcVVCK-G37lQvqoR5g7ipPRWZhmahXRpuYWOPvMSk5mc@tgju.org:443?security=tls&sni=works.starlingshell22.tk&alpn=http%2F1.1&type=ws&host=works.starlingshell22.tk&path=%2Ftrojan-panel-websocket-path#cdn-tro-ws-tls-IE1
+
