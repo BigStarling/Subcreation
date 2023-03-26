@@ -3,4 +3,4 @@ Farvardin 5 1402
 25 March 2023
 
 
-trojan://pwTJFcVVCK-G37lQvqoR5g7ipPRWZhmahXRpuYWOPvMSk5mc@works.starlingshell22.tk:443?type=tcp&security=tls&flow=none#tro-tcp-tls-fb-IE1
+vless://37867aa6-b248-5d22-97fa-4d85373f1fa5@works.starlingshell22.tk:443?security=tls&encryption=none&headerType=none&type=tcp#Vless-tcp-tls-FB-IE1
