@@ -3,9 +3,6 @@ Farvardin 6 1402
 26 March 2023
 
 
-trojan://pwTJFcVVCK-G37lQvqoR5g7ipPRWZhmahXRpuYWOPvMSk5mc@www.speedtest.net:443?security=tls&sni=works.starlingshell22.tk&alpn=http%2F1.1&type=ws&host=works.starlingshell22.tk&path=%2Ftrojan-panel-websocket-path#cdn-tro-ws-tls-IE1
-trojan://pwTJFcVVCK-G37lQvqoR5g7ipPRWZhmahXRpuYWOPvMSk5mc@104.17.177.94:443?security=tls&sni=works.starlingshell22.tk&alpn=http%2F1.1&type=ws&host=works.starlingshell22.tk&path=%2Ftrojan-panel-websocket-path#cdn-tro-ws-tls-IE1
-trojan://pwTJFcVVCK-G37lQvqoR5g7ipPRWZhmahXRpuYWOPvMSk5mc@app.hubspot.com:443?security=tls&sni=works.starlingshell22.tk&alpn=http%2F1.1&type=ws&host=works.starlingshell22.tk&path=%2Ftrojan-panel-websocket-path#cdn-tro-ws-tls-IE1
-trojan://pwTJFcVVCK-G37lQvqoR5g7ipPRWZhmahXRpuYWOPvMSk5mc@discord.com:443?security=tls&sni=works.starlingshell22.tk&alpn=http%2F1.1&type=ws&host=works.starlingshell22.tk&path=%2Ftrojan-panel-websocket-path#cdn-tro-ws-tls-IE1
-trojan://pwTJFcVVCK-G37lQvqoR5g7ipPRWZhmahXRpuYWOPvMSk5mc@tgju.org:443?security=tls&sni=works.starlingshell22.tk&alpn=http%2F1.1&type=ws&host=works.starlingshell22.tk&path=%2Ftrojan-panel-websocket-path#cdn-tro-ws-tls-IE1
+vless://2019d98d-e94d-5efa-af76-553c7cb5c22f@epic.heavenshell5.tk:443?security=tls&encryption=none&headerType=none&type=tcp#cdn-vless-ws-tls-IE1
 
+trojan://xIPhc12rmmRHQM2SY6v5AKydm9HehKp5PM9iG-dAmAixvwVU@epic.heavenshell5.tk:2053?type=tcp&security=tls&flow=#cdn-tro-tcp-tls-fb
