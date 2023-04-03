@@ -3,8 +3,8 @@ Farvardin 10 1402
 30 March 2023
 
 
-vless://86fd22b9-238f-497a-927e-5a4a499d0b02@hamrahaval1.starlingshell22.tk:443?type=grpc&serviceName=%2Fdo682gbgk3u0zou&security=tls&fp=chrome&alpn=h2&sni=epic.starlingshell22.tk#cdn-vless-ws-tls-mci-IE1-7fvqtax
-vless://5d803ab5-3002-4845-e0ac-e8b73c42da98@irancell1.starlingshell22.tk:2087?type=grpc&serviceName=%2Fdo682gbgk3u0zou&security=tls&fp=chrome&alpn=h2&sni=epic.starlingshell22.tk#cdn-vless-ws-tls-mtn-IE1-fhbvt2ayx
-vless://83b4534c-331b-4a6e-e5f1-b457fba6cbd5@mokhaberat1.starlingshell22.tk:2083?type=grpc&serviceName=%2Fdo682gbgk3u0zou&security=tls&fp=chrome&alpn=h2&sni=epic.starlingshell22.tk#cdn-vless-ws-tls-mkh-IE1-7lnegom
-vless://1b00154d-2b7e-4f53-8c59-5b960fa1cbc6@hamrahaval1.starlingshell22.tk:2096?type=grpc&serviceName=do682gbgk3u0zou&security=tls&fp=chrome&alpn=&sni=epic.starlingshell22.tk#IOS%20cdn-vless-grpc-tls-mci-IE1-q47mhom
-vless://84114a62-1749-4bc2-f450-8b0190a6d99e@mokhaberat1.starlingshell22.tk:8443?type=grpc&serviceName=do682gbgk3u0zou&security=tls&fp=chrome&alpn=&sni=epic.starlingshell22.tk#IOS%20cdn-vless-ws-tls-mkh-IE1-367nvj1eo
+vless://86fd22b9-238f-497a-927e-5a4a499d0b02@hamrahaval1.starlingshell22.tk:443?encryption=none&security=tls&sni=epic.starlingshell22.tk&alpn=h2&fp=chrome&type=grpc&serviceName=%2Fdo682gbgk3u0zou&mode=multi#cdn-vless-ws-tls-mci-IE1-7fvqtax
+vless://5d803ab5-3002-4845-e0ac-e8b73c42da98@irancell1.starlingshell22.tk:2087?encryption=none&security=tls&sni=epic.starlingshell22.tk&alpn=h2&fp=chrome&type=grpc&serviceName=%2Fdo682gbgk3u0zou&mode=multi#cdn-vless-ws-tls-mtn-IE1-fhbvt2ayx
+vless://83b4534c-331b-4a6e-e5f1-b457fba6cbd5@mokhaberat1.starlingshell22.tk:2083?encryption=none&security=tls&sni=epic.starlingshell22.tk&alpn=h2&fp=chrome&type=grpc&serviceName=%2Fdo682gbgk3u0zou&mode=multi#cdn-vless-ws-tls-mkh-IE1-7lnegom
+vless://1b00154d-2b7e-4f53-8c59-5b960fa1cbc6@hamrahaval1.starlingshell22.tk:2096?encryption=none&security=tls&sni=epic.starlingshell22.tk&fp=chrome&type=grpc&serviceName=do682gbgk3u0zou&mode=multi#IOS%20cdn-vless-grpc-tls-mci-IE1-q47mhom
+vless://84114a62-1749-4bc2-f450-8b0190a6d99e@mokhaberat1.starlingshell22.tk:8443?encryption=none&security=tls&sni=epic.starlingshell22.tk&fp=chrome&type=grpc&serviceName=do682gbgk3u0zou&mode=multi#IOS%20cdn-vless-ws-tls-mkh-IE1-367nvj1eo
