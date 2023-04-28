@@ -1,10 +1,5 @@
 Firday
-Farvardin 25 1402
-14 April 2023
+Ordibehsht 8 1402
+28 April 2023
 
-
-vless://86fd22b9-238f-497a-927e-5a4a499d0b02@www.speedtest.net:443?encryption=none&security=tls&sni=starling.ilia-1383shirvani.workers.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=starling.ilia-1383shirvani.workers.dev&path=%2Fdo682gbgk3u0zou#worker-vless-ws-tls-IE1
-vless://1b00154d-2b7e-4f53-8c59-5b960fa1cbc6@mokhaberat1.starlingshell22.tk:2096?encryption=none&security=tls&sni=epic.starlingshell22.tk&type=grpc&serviceName=do682gbgk3u0zou&mode=gun#IOS%20cdn-vless-grpc-tls-mci-IE1
-vless://1b00154d-2b7e-4f53-8c59-5b960fa1cbc6@hamrahaval1.starlingshell22.tk:2096?encryption=none&security=tls&sni=epic.starlingshell22.tk&type=grpc&serviceName=do682gbgk3u0zou&mode=gun#IOS-hamrah_aval-vless-grpc-tls--IE1
-vless://5d803ab5-3002-4845-e0ac-e8b73c42da98@irancell1.starlingshell22.tk:2087?encryption=none&security=tls&sni=epic.starlingshell22.tk&type=grpc&serviceName=%2Fdo682gbgk3u0zou&mode=gun#irancell-vless-grpc-tls-mtn-IE1
-vless://84114a62-1749-4bc2-f450-8b0190a6d99e@shatel.starlingshell22.tk:8443?encryption=none&security=tls&sni=epic.starlingshell22.tk&alpn=h2&fp=chrome&type=grpc&serviceName=do682gbgk3u0zou&mode=gun#Shatel-vless-grpc-tls-IE1
+vless://23f7a11b-7b50-4108-dc0d-2ae300ff51a6@www.speedtest.net:443?encryption=none&security=tls&sni=starling.ilia-1383shirvani.workers.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=starling.ilia-1383shirvani.workers.dev&path=%2FKuHbT8hfr2uXu52#worker-vless-ws-tls-IE2
