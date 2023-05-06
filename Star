@@ -1,6 +1,7 @@
-Firday
-Ordibehesht 15 1402 
-5 May 2023
+Sunday
+Ordibehesht 17 1402 
+7 May 2023
 
-vless://ea4b714b-abd6-4ca0-842d-e66995a69c5a@www.speedtest.net:443?encryption=none&security=tls&sni=starling.ilia-1383shirvani.workers.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=starling.ilia-1383shirvani.workers.dev&path=%2F1RZHFtlho64dSTjwI3i8#worker-vless-ws-tls-Fr2
+vless://ea4b714b-abd6-4ca0-842d-e66995a69c5a@www.speedtest.net:443?encryption=none&security=tls&sni=starling2.ilia-1383shirvani.workers.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=starling2.ilia-1383shirvani.workers.dev&path=%2F1RZHFtlho64dSTjwI3i8#worker-vless-ws-tls-Fr2
+
 
