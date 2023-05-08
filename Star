@@ -1,7 +1,8 @@
-Sunday
-Ordibehesht 17 1402 
-7 May 2023
+Monday
+Ordibehesht 18 1402 
+8 May 2023
 
-vless://ea4b714b-abd6-4ca0-842d-e66995a69c5a@www.speedtest.net:443?encryption=none&security=tls&sni=starling2.ilia-1383shirvani.workers.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=starling2.ilia-1383shirvani.workers.dev&path=%2F1RZHFtlho64dSTjwI3i8#worker-vless-ws-tls-Fr2
-
-
+vless://1ea789df-7bd8-4ad0-a51f-581d4d8bf24e@www.speedtest.net:443?encryption=none&security=tls&sni=abus.ilia-1383shirvani.workers.dev&alpn=h2&fp=chrome&type=ws&host=abus.ilia-1383shirvani.workers.dev&path=%2FNkzRL1x8eLNnWaQm52MEE#tls_h2_WS_CDN_vless_hiddify-worker-vless-ws-tls-Fr2
+trojan://1ea789df-7bd8-4ad0-a51f-581d4d8bf24e@www.speedtest.net:443?security=tls&sni=abus.ilia-1383shirvani.workers.dev&alpn=h2&fp=chrome&type=ws&host=abus.ilia-1383shirvani.workers.dev&path=%2FuwziiofssNR5ndvnWaQm52MEE#tls_h2_WS_CDN_trojan_hiddify-worker-vless-ws-tls-Fr2
+vless://1ea789df-7bd8-4ad0-a51f-581d4d8bf24e@www.speedtest.net:443?encryption=none&security=tls&sni=abus.ilia-1383shirvani.workers.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=abus.ilia-1383shirvani.workers.dev&path=%2FNkzRL1x8eLNnWaQm52MEE#tls_WS_CDN_vless_hiddify-worker-vless-ws-tls-Fr2
+trojan://1ea789df-7bd8-4ad0-a51f-581d4d8bf24e@www.speedtest.net:443?security=tls&sni=abus.ilia-1383shirvani.workers.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=abus.ilia-1383shirvani.workers.dev&path=%2FuwziiofssNR5ndvnWaQm52MEE#tls_WS_CDN_trojan_hiddify-worker-vless-ws-tls-Fr2
