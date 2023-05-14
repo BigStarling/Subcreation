@@ -2,6 +2,9 @@ Sunday
 Ordibehesht 24 1402 
 14 May 2023
 
-vless://1ea789df-7bd8-4ad0-a51f-581d4d8bf24e@www.speedtest.net:443?encryption=none&security=tls&sni=abus.ilia-1383shirvani.workers.dev&alpn=h2&fp=chrome&type=ws&host=abus.ilia-1383shirvani.workers.dev&path=%2FNkzRL1x8eLNnWaQm52MEE#tls_h2_WS_CDN_vless_hiddify-worker-vless-ws-tls-Fr2
-vless://1ea789df-7bd8-4ad0-a51f-581d4d8bf24e@www.speedtest.net:443?encryption=none&security=tls&sni=abus.ilia-1383shirvani.workers.dev&alpn=http%2F1.1&fp=chrome&type=ws&host=abus.ilia-1383shirvani.workers.dev&path=%2FNkzRL1x8eLNnWaQm52MEE#tls_WS_CDN_vless_hiddify-worker-vless-ws-tls-Fr2
+trojan://1ea789df-7bd8-4ad0-a51f-581d4d8bf24e@www.speedtest.net:443?security=tls&sni=tested.starlingshell11.tk&alpn=http%2F1.1&fp=chrome&type=grpc&serviceName=uwziiofssNR5ndv0wzU1D5daCIkW3w&mode=multi#tls_grpc_CDN_trojan_hiddify-cdn-tls-Fr2
+trojan://1ea789df-7bd8-4ad0-a51f-581d4d8bf24e@www.speedtest.net:443?security=tls&sni=tested.starlingshell11.tk&alpn=h2&fp=chrome&type=grpc&serviceName=uwziiofssNR5ndv0wzU1D5daCIkW3w&mode=multi#tls_h2_grpc_CDN_trojan_hiddify-cdn-tls-Fr2
+vless://1ea789df-7bd8-4ad0-a51f-581d4d8bf24e@www.speedtest.net:443?encryption=none&security=tls&sni=tested.starlingshell11.tk&alpn=h2&fp=chrome&type=grpc&serviceName=NkzRL1x8eLN0wzU1D5daCIkW3w&mode=multi#tls_h2_grpc_CDN_vless_hiddify-cdn-tls-Fr2
+vless://1ea789df-7bd8-4ad0-a51f-581d4d8bf24e@www.speedtest.net:443?encryption=none&security=tls&sni=tested.starlingshell11.tk&alpn=http%2F1.1&fp=chrome&type=grpc&serviceName=NkzRL1x8eLN0wzU1D5daCIkW3w&mode=multi#tls_grpc_CDN_vless_hiddify-cdn-tls-Fr2
+
 
