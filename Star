@@ -1,6 +1,7 @@
 Tuseday
 Khordad 9 1402 
 30 May 2023
+
 trojan://0c2b2b2c-7fb4-4232-8e56-05aba91c370c@bestone.starlingshell22.tk:443?path=%2F1vudYUd7tnI2NJDw4cbFu&security=tls&alpn=h2&host=bestone.starlingshell22.tk&fp=chrome&type=ws&sni=bestone.starlingshell22.tk#tls_h2_WS_direct_trojan
-[12:05]
+
 vless://0c2b2b2c-7fb4-4232-8e56-05aba91c370c@bestone.starlingshell22.tk:80?path=%2F0Oo9YpMrB7tnI2NJDw4cbFu&security=none&encryption=none&host=bestone.starlingshell22.tk&type=ws#http_WS_direct_vless
