@@ -3,6 +3,7 @@ Khordad 10 1402
 31 May 2023
 
 trojan://0c2b2b2c-7fb4-4232-8e56-05aba91c370c@tcp.starlingshell22.tk:443?security=tls&sni=tcp.starlingshell22.tk&alpn=h2&fp=chrome&type=tcp&headerType=None&host=tcp.starlingshell22.tk#old%20direct_tls_h2_tcp_trojan
+
 trojan://0c2b2b2c-7fb4-4232-8e56-05aba91c370c@bestone.starlingshell22.tk:443?security=tls&sni=bestone.starlingshell22.tk&alpn=h2&fp=chrome&type=grpc&serviceName=1vudYUdC5hlIEhKgh&mode=gun#tls_h2_grpc_direct_trojan
 trojan://0c2b2b2c-7fb4-4232-8e56-05aba91c370c@bestone.starlingshell22.tk:443?path=%2F1vudYUd7tnI2NJDw4cbFu&security=tls&alpn=h2&host=bestone.starlingshell22.tk&fp=chrome&type=ws&sni=bestone.starlingshell22.tk#tls_h2_WS_direct_trojan
 
