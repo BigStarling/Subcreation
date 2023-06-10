@@ -1,8 +1,10 @@
-Tuesday 
-Khordad 16 1402 
-6 June 2023
+Sunday 
+Khordad 21 1402 
+7 June 2023
 
-vless://0c2b2b2c-7fb4-4232-8e56-05aba91c370c@bestone.starlingshell22.tk:443?security=reality&encryption=none&alpn=h2&pbk=jH5kswkpOECT0u20E-GaP35WGLEgnbFfndLc1Goqr2Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=discord.com&sid=a8e406a0#test1_reality_XTLS_direct_vless
+trojan://0c2b2b2c-7fb4-4232-8e56-05aba91c370c@www.speedtest.net:443?security=tls&sni=vorker.starlingshell22.tk&alpn=h2&fp=chrome&type=ws&host=vorker.starlingshell22.tk&path=%2F1vudYUd7tnI2NJDw4cbFu#cdn-Vienna1_tls_h2_WS_CDN_trojan
+
+vless://0c2b2b2c-7fb4-4232-8e56-05aba91c370c@www.speedtest.net:443?encryption=none&security=tls&sni=vorker.starlingshell22.tk&alpn=h2&fp=chrome&type=grpc&serviceName=0Oo9YpMrBC5hlIEhKgh&mode=gun#cdn-Vienna1_tls_h2_grpc_CDN_vless
 
 vless://0c2b2b2c-7fb4-4232-8e56-05aba91c370c@bestone.starlingshell22.tk:443?security=reality&encryption=none&alpn=h2&pbk=jH5kswkpOECT0u20E-GaP35WGLEgnbFfndLc1Goqr2Q&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.jackpotcitycasino1.com&sid=a8e406a0#test2_reality_XTLS_direct_vless
 
